@@ -516,6 +516,10 @@ void RedRight(void) {
   PIDmodifier = vex::task(drivePID);
   wait(0.6,seconds);
   clamp.set(false);
+
+
+
+  
 }
 
 void BlueLeft(void) {
