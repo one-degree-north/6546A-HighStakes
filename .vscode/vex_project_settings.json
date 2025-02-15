@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "BlueLeft",
+		"slot": 2,
+		"description": "Empty V5 C++ Project",
+		"platform": "V5",
+		"creationDate": "Wed, 09 Oct 2024 04:46:10 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240223_11_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.6.0",
+		"json": 1
+	}
+}
